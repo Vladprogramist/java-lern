@@ -15,8 +15,8 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int x = scan.nextInt();
         int y = scan.nextInt();
-        int sum = x+y;
-        System.out.println("Сума чисел:" +sum);
+        int sum = x-y;
+        System.out.println("Різниця чисел:" +sum);
 
 
     }
